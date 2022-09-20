@@ -14,7 +14,7 @@
 </div>
 
 <br>
-[Portfólio Arthus Benazio](https://arthusbenazio.github.io/Portf-lio/)
+[Portfólio Arthus Benazio](arthusbenazio.github.io/Portf-lio/)
 <br>
 
 
